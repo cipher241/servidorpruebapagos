@@ -1,11 +1,11 @@
 {
-  "name": "html-sem-4",
+  "name": "Servidor",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
   "author": "",
   "type": "module",
-  "main": "archivo.js",
+  "main": "servidor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
